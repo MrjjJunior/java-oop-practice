@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ee6200-efba-4f06-a24c-a73275b64538" name="Changes" comment="" />
+    <list default="true" id="d0ee6200-efba-4f06-a24c-a73275b64538" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/src/main/java/com/practice/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/src/test/java/com/practice/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/src/main/java/com/practice/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/src/test/java/com/practice/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/src/test/java/com/practice/StudentTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +43,12 @@
     &quot;assignee&quot;: &quot;Mphele&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Mphele/java-oop-practice.git&quot;,
-    &quot;accountId&quot;: &quot;8adfc60f-05b0-47e7-9895-3dffad565b1d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Winter-stone/java-oop-practice.git",
+    "accountId": "b75fe238-2a9b-4e1d-a068-6656115b1907"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -33,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
