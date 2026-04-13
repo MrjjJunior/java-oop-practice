@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ee6200-efba-4f06-a24c-a73275b64538" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/src/main/java/com/practice/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-5/src/test/java/com/practice/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/src/main/java/com/practice/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-6/src/test/java/com/practice/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-7/src/test/java/com/practice/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation-excercise-1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation-excercise-1/src/test/java/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation-excercise-1/src/test/java/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +22,12 @@
     &quot;assignee&quot;: &quot;Mphele&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Winter-stone/java-oop-practice.git",
-    "accountId": "b75fe238-2a9b-4e1d-a068-6656115b1907"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Winter-stone/java-oop-practice.git&quot;,
+    &quot;accountId&quot;: &quot;b75fe238-2a9b-4e1d-a068-6656115b1907&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -62,9 +41,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mphel/Documents/School/Java/java-oop-practice"
+    "last_opened_file_path": "/home/tshepiso/Desktop/wtc/practice/java-oop-practice/encapsulation-excercise-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="TaskManager">
@@ -76,5 +66,8 @@
       <updated>1773648366738</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
